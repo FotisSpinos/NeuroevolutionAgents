@@ -1,0 +1,508 @@
+
+Title: This file contains population data resulting from training
+
+
+Population size: -1
+generation: 0
+population fitness: -18.038216
+best generation fitness: 0.0
+
+
+generation: 1
+population fitness: -14.116522
+best generation fitness: 0.328644
+
+
+generation: 2
+population fitness: -15.945959
+best generation fitness: 0.0
+
+
+generation: 3
+population fitness: -17.543354
+best generation fitness: 0.0
+
+
+generation: 4
+population fitness: -16.832026
+best generation fitness: 0.0
+
+
+generation: 5
+population fitness: -15.779631
+best generation fitness: 0.0
+
+
+generation: 6
+population fitness: -16.260384
+best generation fitness: 0.0
+
+
+generation: 7
+population fitness: -19.779854
+best generation fitness: 0.0
+
+
+generation: 8
+population fitness: -19.221653
+best generation fitness: 0.0
+
+
+generation: 9
+population fitness: -18.083071
+best generation fitness: 0.0
+
+
+generation: 10
+population fitness: -19.132727
+best generation fitness: 47.442139
+
+
+generation: 11
+population fitness: -14.468655
+best generation fitness: 27.365126
+
+
+generation: 12
+population fitness: -13.81572
+best generation fitness: 0.0
+
+
+generation: 13
+population fitness: -13.8379
+best generation fitness: 0.0
+
+
+generation: 14
+population fitness: -13.754715
+best generation fitness: 0.0
+
+
+generation: 15
+population fitness: -13.816694
+best generation fitness: 0.0
+
+
+generation: 16
+population fitness: -14.034949
+best generation fitness: 0.0
+
+
+generation: 17
+population fitness: -14.495022
+best generation fitness: 19.496422
+
+
+generation: 18
+population fitness: -14.783489
+best generation fitness: 0.0
+
+
+generation: 19
+population fitness: -14.640707
+best generation fitness: 97.308693
+
+
+generation: 20
+population fitness: -15.131251
+best generation fitness: 0.0
+
+
+generation: 21
+population fitness: -13.83318
+best generation fitness: 0.0
+
+
+generation: 22
+population fitness: -14.235645
+best generation fitness: 0.0
+
+
+generation: 23
+population fitness: -15.163375
+best generation fitness: 0.0
+
+
+generation: 24
+population fitness: -14.482269
+best generation fitness: 24.179092
+
+
+generation: 25
+population fitness: -14.086121
+best generation fitness: 26.213533
+
+
+generation: 26
+population fitness: -15.783253
+best generation fitness: 71.876831
+
+
+generation: 27
+population fitness: -15.358112
+best generation fitness: 0.0
+
+
+generation: 28
+population fitness: -15.817925
+best generation fitness: 44.596016
+
+
+generation: 29
+population fitness: -20.926508
+best generation fitness: 5.830599
+
+
+generation: 30
+population fitness: -17.671228
+best generation fitness: 28.902296
+
+
+generation: 31
+population fitness: -15.178304
+best generation fitness: 0.0
+
+
+generation: 32
+population fitness: -23.422312
+best generation fitness: 0.0
+
+
+generation: 33
+population fitness: -22.298214
+best generation fitness: 0.0
+
+
+generation: 34
+population fitness: -22.718485
+best generation fitness: 0.0
+
+
+generation: 35
+population fitness: -14.195515
+best generation fitness: 7.877472
+
+
+generation: 36
+population fitness: -14.597218
+best generation fitness: 0.0
+
+
+generation: 37
+population fitness: -16.649282
+best generation fitness: 15.517632
+
+
+generation: 38
+population fitness: -14.940061
+best generation fitness: 24.127756
+
+
+generation: 39
+population fitness: -16.36828
+best generation fitness: 0.0
+
+
+generation: 40
+population fitness: -16.798458
+best generation fitness: 0.0
+
+
+generation: 41
+population fitness: -17.373327
+best generation fitness: 0.0
+
+
+generation: 42
+population fitness: -19.232172
+best generation fitness: 0.0
+
+
+generation: 43
+population fitness: -17.204964
+best generation fitness: 0.0
+
+
+generation: 44
+population fitness: -16.786484
+best generation fitness: 17.163973
+
+
+generation: 45
+population fitness: -18.146023
+best generation fitness: 0.0
+
+
+generation: 46
+population fitness: -20.680891
+best generation fitness: 21.272049
+
+
+generation: 47
+population fitness: -16.534336
+best generation fitness: 0.0
+
+
+generation: 48
+population fitness: -16.657724
+best generation fitness: 0.0
+
+
+generation: 49
+population fitness: -20.717859
+best generation fitness: 0.0
+
+
+generation: 50
+population fitness: -17.861759
+best generation fitness: 39.64595
+
+
+generation: 51
+population fitness: -14.40203
+best generation fitness: 0.0
+
+
+generation: 52
+population fitness: -15.550096
+best generation fitness: 6.813219
+
+
+generation: 53
+population fitness: -16.057079
+best generation fitness: 0.0
+
+
+generation: 54
+population fitness: -14.406034
+best generation fitness: 0.0
+
+
+generation: 55
+population fitness: -14.388295
+best generation fitness: 0.0
+
+
+generation: 56
+population fitness: -15.201187
+best generation fitness: 0.0
+
+
+generation: 57
+population fitness: -14.644374
+best generation fitness: 0.0
+
+
+generation: 58
+population fitness: -14.471448
+best generation fitness: 0.0
+
+
+generation: 59
+population fitness: -16.26227
+best generation fitness: 0.0
+
+
+generation: 60
+population fitness: -15.39718
+best generation fitness: 0.0
+
+
+generation: 61
+population fitness: -16.17791
+best generation fitness: 0.0
+
+
+generation: 62
+population fitness: -15.846908
+best generation fitness: 0.0
+
+
+generation: 63
+population fitness: -15.858854
+best generation fitness: 0.0
+
+
+generation: 64
+population fitness: -16.202084
+best generation fitness: 0.0
+
+
+generation: 65
+population fitness: -15.131178
+best generation fitness: 34.588013
+
+
+generation: 66
+population fitness: -16.219118
+best generation fitness: 0.0
+
+
+generation: 67
+population fitness: -14.804538
+best generation fitness: 0.0
+
+
+generation: 68
+population fitness: -16.282995
+best generation fitness: 10.853158
+
+
+generation: 69
+population fitness: -15.240958
+best generation fitness: 0.0
+
+
+generation: 70
+population fitness: -15.887117
+best generation fitness: 0.0
+
+
+generation: 71
+population fitness: -15.220465
+best generation fitness: 0.0
+
+
+generation: 72
+population fitness: -14.600814
+best generation fitness: 18.356674
+
+
+generation: 73
+population fitness: -15.573841
+best generation fitness: 10.222172
+
+
+generation: 74
+population fitness: -20.190855
+best generation fitness: 12.858047
+
+
+generation: 75
+population fitness: -18.352745
+best generation fitness: 0.0
+
+
+generation: 76
+population fitness: -17.921265
+best generation fitness: 0.0
+
+
+generation: 77
+population fitness: -17.484007
+best generation fitness: 11.526012
+
+
+generation: 78
+population fitness: -18.777376
+best generation fitness: 11.535796
+
+
+generation: 79
+population fitness: -15.098054
+best generation fitness: 45.935493
+
+
+generation: 80
+population fitness: -20.948984
+best generation fitness: 2.343949
+
+
+generation: 81
+population fitness: -19.775856
+best generation fitness: 16.482567
+
+
+generation: 82
+population fitness: -26.828718
+best generation fitness: 7.459042
+
+
+generation: 83
+population fitness: -29.125696
+best generation fitness: 11.559358
+
+
+generation: 84
+population fitness: -18.915411
+best generation fitness: 0.0
+
+
+generation: 85
+population fitness: -23.80575
+best generation fitness: 0.0
+
+
+generation: 86
+population fitness: -19.825367
+best generation fitness: 0.0
+
+
+generation: 87
+population fitness: -21.781549
+best generation fitness: 0.0
+
+
+generation: 88
+population fitness: -20.363098
+best generation fitness: 75.281708
+
+
+generation: 89
+population fitness: -25.477518
+best generation fitness: 16.955149
+
+
+generation: 90
+population fitness: -21.918217
+best generation fitness: 4.841975
+
+
+generation: 91
+population fitness: -16.020967
+best generation fitness: 21.529291
+
+
+generation: 92
+population fitness: -19.669106
+best generation fitness: 0.0
+
+
+generation: 93
+population fitness: -20.736614
+best generation fitness: 0.0
+
+
+generation: 94
+population fitness: -19.060722
+best generation fitness: 0.0
+
+
+generation: 95
+population fitness: -17.464802
+best generation fitness: 0.0
+
+
+generation: 96
+population fitness: -24.033436
+best generation fitness: 0.0
+
+
+generation: 97
+population fitness: -26.131073
+best generation fitness: 0.0
+
+
+generation: 98
+population fitness: -16.727076
+best generation fitness: 0.0
+
+
+generation: 99
+population fitness: -19.173689
+best generation fitness: 0.0
+
+
+generation: 100
+population fitness: -21.572166
+best generation fitness: 0.0
