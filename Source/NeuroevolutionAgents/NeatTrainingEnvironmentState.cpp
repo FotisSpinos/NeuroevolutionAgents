@@ -37,7 +37,7 @@ ANeatTrainingEnvironmentState::~ANeatTrainingEnvironmentState()
 
 void ANeatTrainingEnvironmentState::UpdateState()
 {
-	GEngine->AddOnScreenDebugMessage(3, 30.3f, FColor::Yellow, FString("Generation Avairage Fitness") + FString(std::to_string(avairagePopulationFitness).c_str()));
+	GEngine->AddOnScreenDebugMessage(3, 30.3f, FColor::Yellow, FString("Generation Avairage Fitness: ") + FString(std::to_string(avairagePopulationFitness).c_str()));
 	GEngine->AddOnScreenDebugMessage(2, 0.3f, FColor::Yellow, FString("Number of organisms: ") + FString(std::to_string(population->organisms.size()).c_str()));
 	GEngine->AddOnScreenDebugMessage(1, 0.3f, FColor::Yellow, FString("Currrent Generation: ") + FString::FromInt(generation));
 
@@ -143,7 +143,45 @@ void ANeatTrainingEnvironmentState::InitState()
 	GetWorldSettings()->SetTimeDilation(1000.0f);
 
 	using namespace NEAT;
-	// NEAT variables initialization for feuture work load these data from a file
+
+	NEAT::trait_param_mut_prob = 0.5;
+	NEAT::trait_mutation_power = 1.0;
+	NEAT::linktrait_mut_sig = 1.0;
+	NEAT::nodetrait_mut_sig = 0.5;
+	NEAT::weight_mut_power = 2.5;
+	NEAT::recur_prob = 0.00;
+	NEAT::disjoint_coeff = 1.0;
+	NEAT::excess_coeff = 1.0;
+	NEAT::mutdiff_coeff = 0.4;
+	NEAT::compat_threshold = 2.0;
+	NEAT::age_significance = 1.0;
+	NEAT::survival_thresh = 0.20;
+	NEAT::mutate_only_prob = 0.25;
+	NEAT::mutate_random_trait_prob = 0.1;
+	NEAT::mutate_link_trait_prob = 0.1;
+	NEAT::mutate_node_trait_prob = 0.1;
+	NEAT::mutate_link_weights_prob = 0.3;
+	NEAT::mutate_toggle_enable_prob = 0.00;
+	NEAT::mutate_gene_reenable_prob = 0.000;
+	NEAT::mutate_add_node_prob = 0.03;
+	NEAT::mutate_add_link_prob = 0.05;
+	NEAT::interspecies_mate_rate = 0.001;
+	NEAT::mate_multipoint_prob = 0.3;
+	NEAT::mate_multipoint_avg_prob = 0.4;
+	NEAT::mate_singlepoint_prob = 0.0;
+	NEAT::mate_only_prob = 0.4;
+	NEAT::recur_only_prob = 0.0;
+	NEAT::pop_size = ABaseEnvironmentMaster::GetInstance()->GetAgentNumber() - 1; //150;
+	NEAT::dropoff_age = 15; //15;
+	NEAT::newlink_tries = 20;
+	NEAT::print_every = 30;
+	NEAT::babies_stolen = 0;
+	NEAT::num_runs = 0;
+}
+
+/*
+* 
+* // NEAT variables initialization for feuture work load these data from a file
 	NEAT::trait_param_mut_prob = 0.5;
 	NEAT::trait_mutation_power = 1.5;
 	NEAT::linktrait_mut_sig = 1.0;
@@ -177,9 +215,6 @@ void ANeatTrainingEnvironmentState::InitState()
 	NEAT::print_every = 30;
 	NEAT::babies_stolen = 1;
 	NEAT::num_runs = 1;
-}
-
-/*
 
 	// NEAT variables initialization for feuture work load these data from a file
 	NEAT::trait_param_mut_prob = 0.5;

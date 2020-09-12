@@ -1,4 +1,2 @@
-﻿  population.cpp
-C:\Users\Fotis\Desktop\NEAT\NEAT\NEAT\population.cpp(70,6): warning C4101: 'count': unreferenced local variable
-C:\Users\Fotis\Desktop\NEAT\NEAT\NEAT\population.cpp(282,6): warning C4101: 'pause': unreferenced local variable
-  NEAT.vcxproj -> C:\Users\Fotis\Desktop\NEAT\NEAT\Debug\NEAT.exe
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Fotis\Downloads\NeuroevolutionAgents-master\Source\NeuroevolutionAgents\NEAT\Debug\NEAT.exe : fatal error LNK1120: 1 unresolved externals
